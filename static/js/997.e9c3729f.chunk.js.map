@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/997.e9c3729f.chunk.js","mappings":"uIAMA,UANa,WACT,OAAQA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,kBAGjB,C","sources":["views/web/js/sourcemap/index.tsx"],"sourcesContent":["const view = () => {\n    return (<div>\n        JS列表\n    </div>);\n}\n\nexport default view;"],"names":["_jsx","children"],"sourceRoot":""}
