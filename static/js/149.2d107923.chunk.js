@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmonitor_admin=self.webpackChunkmonitor_admin||[]).push([[149],{4149:function(n,t,e){e.r(t);var i=e(8935),r=e(7309),o=e(7689),a=(e(2567),e(3329));t.default=function(){var n=(0,o.s0)();return(0,a.jsx)(i.ZP,{status:"500",title:"500",subTitle:"Sorry, something went wrong.",extra:(0,a.jsx)(r.ZP,{type:"primary",onClick:function(){n("/home/app")},children:"Back Home"})})}},2567:function(){}}]);
+//# sourceMappingURL=149.2d107923.chunk.js.map
