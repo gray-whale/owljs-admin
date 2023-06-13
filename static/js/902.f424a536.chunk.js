@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmonitor_admin=self.webpackChunkmonitor_admin||[]).push([[902],{3902:function(t,n,e){e.r(n);var i=e(8935),r=e(7309),a=e(7689),o=(e(2567),e(3329));n.default=function(){var t=(0,a.s0)();return(0,o.jsx)(i.ZP,{status:"403",title:"403",subTitle:"Sorry, you are not authorized to access this page.",extra:(0,o.jsx)(r.ZP,{type:"primary",onClick:function(){t("/home/app")},children:"\u8fd4\u56de\u9996\u9875"})})}},2567:function(){}}]);
+//# sourceMappingURL=902.f424a536.chunk.js.map
