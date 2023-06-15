@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/828.542c27f7.chunk.js","mappings":"wIAMA,UANmB,WACf,OAAQA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,4BAGjB,C","sources":["views/system/user/index.tsx"],"sourcesContent":["const UserLayout = ()=>{\n    return (<div>\n        用户管理\n    </div>);\n}\n\nexport default UserLayout;"],"names":["_jsx","children"],"sourceRoot":""}
