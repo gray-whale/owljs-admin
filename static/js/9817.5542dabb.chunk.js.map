@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/9817.5542dabb.chunk.js","mappings":"yIAMA,UANmB,WACf,OAAQA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,4BAGjB,C","sources":["views/system/role/index.tsx"],"sourcesContent":["const RoleLayout = ()=>{\n    return (<div>\n        角色管理\n    </div>);\n}\n\nexport default RoleLayout;"],"names":["_jsx","children"],"sourceRoot":""}
