@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/107.769a1f57.chunk.js","mappings":"wJAAA,MAMA,EANmBA,KACPC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,4B","sources":["views/system/team/index.tsx"],"sourcesContent":["const TeamLayout = ()=>{\n    return (<div>\n        团队管理\n    </div>);\n}\n\nexport default TeamLayout;"],"names":["TeamLayout","_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmonitor_admin=self.webpackChunkmonitor_admin||[]).push([[4149],{4149:(t,e,n)=>{n.r(e),n.d(e,{default:()=>a});var r=n(8935),s=n(2641),i=n(7689),o=(n(2567),n(3329));const a=()=>{const t=(0,i.s0)();return(0,o.jsx)(r.ZP,{status:"500",title:"500",subTitle:"Sorry, something went wrong.",extra:(0,o.jsx)(s.ZP,{type:"primary",onClick:()=>{t("/home/app")},children:"\u8fd4\u56de\u9996\u9875"})})}},2567:()=>{}}]);
+//# sourceMappingURL=4149.1f9a0aaa.chunk.js.map
